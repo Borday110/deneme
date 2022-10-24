@@ -1,9 +1,9 @@
 {
-        "DUYURU": "DUYURULARR",
-        "name": "Crypto DOOMSLAYER Auto Buy Sell Bot",
-        "version": "v.0.1.2",
-        "description": " konular" ,
-        "computers": " aab ",
-        "mac": "4c:eb:42:30:5d:5e"
+        "DUYURU" = "DUYURULARR",
+        "name" = "Crypto DOOMSLAYER Auto Buy Sell Bot",
+        "version" = "v.0.1.2",
+        "description" = " konular" ,
+        "computers" = " aab ",
+        "mac" = "4c:eb:42:30:5d:5e"
 
 }
