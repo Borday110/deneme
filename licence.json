@@ -6,12 +6,12 @@
                 ],
         "computers":[
                 {
-                        "mac" : "4c:eb:42:30:5d:5e",
+                        "mac" : "4c:eb:42:30:5d:5a",
                         "kullanici_adi" : "key",
                         "tarih" : "SINIRSIZ"
                 },
                 {
-                        "mac" : "4c:eb:42:30:5d:5e",
+                        "mac" : "4c:eb:42:30:5d:5a",
                         "kullanici_adi" : "admin",
                         "tarih" : "SINIRSIZ"
                 },
