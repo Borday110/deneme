@@ -1,9 +1,33 @@
 {
-        "DUYURU" = "DUYURULARR",
-        "name" = "Crypto DOOMSLAYER Auto Buy Sell Bot",
-        "version" = "v.0.1.2",
-        "description" = " konular" ,
-        "computers" = " aab ",
-        "mac" = "4c:eb:42:30:5d:5e"
-
+        "DUYURU":[
+                        {"Crpto DoomSlayer tarafından geliştirilen bu Auto Buy Sell Botun tüm hakları saklıdır.. Uygulama ile yapılan tüm işlemlerden oluşabilecek kar ve zararlardan sorumlu değiliz. Uygulama sizler için her geçen gün daha yararlı olması adına çalışmalara devam edilmektedir. Uygulamayı çalıştırmadan önce en güncel sürüm olup olmadığını kontrol ediniz.. Uygulamada sizlerden istenen verilerin doğru oranda girildiğinden emin olmadan işlem açmayınız. Daha fazla katkı sağlanması adına BAĞIŞ yapabilirsiniz.. 
+                                BTC : 
+                                ETH : 
+                                SOL :"
+                        }
+                ],
+        "computers":[
+                {
+                        "mac" : "4c:eb:42:30:5d:5e",
+                        "kullanici_adi" : "admin",
+                        "tarih" : "SINIRSIZ"
+                },
+                {
+                        "mac" : "aa:ab:bc:cd:de:ef",
+                        "kullanici_adi" : "hacker",
+                        "tarih" : "SINIRSIZ"
+                }
+                ],
+        "versions":[
+                {
+                        "version" : "v0.1.2",
+                        "Güncelleme" : "Hata Düzeltmeler",
+                        "tarih" : "05.10.2022"
+                },
+                {
+                        "version" : "v0.1.3",
+                        "Güncelleme" : "Güncel Sürüm",
+                        "tarih" : "30.10.2022"
+                }
+                ]
 }
