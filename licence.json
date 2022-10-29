@@ -1,10 +1,8 @@
 {
         "DUYURU":[
-                        {"Crpto DoomSlayer tarafından geliştirilen bu Auto Buy Sell Botun tüm hakları saklıdır.. Uygulama ile yapılan tüm işlemlerden oluşabilecek kar ve zararlardan sorumlu değiliz. Uygulama sizler için her geçen gün daha yararlı olması adına çalışmalara devam edilmektedir. Uygulamayı çalıştırmadan önce en güncel sürüm olup olmadığını kontrol ediniz.. Uygulamada sizlerden istenen verilerin doğru oranda girildiğinden emin olmadan işlem açmayınız. Daha fazla katkı sağlanması adına BAĞIŞ yapabilirsiniz.. 
-                                BTC : 
-                                ETH : 
-                                SOL :"
-                        }
+                {
+                        "DUYURU" : "Crpto DoomSlayer tarafından geliştirilen bu Auto Buy Sell Botun tüm hakları saklıdır.. Uygulama ile yapılan tüm işlemlerden oluşabilecek kar ve zararlardan sorumlu değiliz. Uygulama sizler için her geçen gün daha yararlı olması adına çalışmalara devam edilmektedir. Uygulamayı çalıştırmadan önce en güncel sürüm olup olmadığını kontrol ediniz.. Uygulamada sizlerden istenen verilerin doğru oranda girildiğinden emin olmadan işlem açmayınız. Daha fazla katkı sağlanması adına BAĞIŞ yapabilirsiniz.."
+                }        
                 ],
         "computers":[
                 {
