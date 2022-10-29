@@ -6,6 +6,11 @@
                 ],
         "computers":[
                 {
+                        "mac" : "9712-1221-4552-1231",
+                        "kullanici_adi" : "key",
+                        "tarih" : "SINIRSIZ"
+                },
+                {
                         "mac" : "4c:eb:42:30:5d:5e",
                         "kullanici_adi" : "admin",
                         "tarih" : "SINIRSIZ"
