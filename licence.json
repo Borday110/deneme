@@ -7,13 +7,8 @@
         "computers":[
                 {
                         "mac" : "4c:eb:42:30:5d:5e",
-                        "kullanici_adi" : "key",
-                        "tarih" : "2022.11.30"
-                },
-                {
-                        "mac" : "4c:eb:42:30:5d:5e",
                         "kullanici_adi" : "admin",
-                        "tarih" : "SINIRSIZ"
+                        "tarih" : "2022.11.30"
                 },
                 {
                         "mac" : "aa:ab:bc:cd:de:ef",
