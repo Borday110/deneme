@@ -6,15 +6,15 @@
                 ],
         "computers":[
                 {
-                        "mac" : "4c:eb:42:30:5d:5e",
+                        "mac" : "ac:eb:42:30:5d:ae",
                         "kullanici_adi" : "admin",
-                        "version" : "v0.1.3",
+                        "version" : "v0.1.2",
                         "tarih" : "SINIRSIZ"
                 },
                 {
                         "mac" : "aa:ab:bc:cd:de:ef",
                         "kullanici_adi" : "hacker",
-                        "version" : "v0.1.3",
+                        "version" : "v0.1.2",
                         "tarih" : "SINIRSIZ"
                 }
                 ],
